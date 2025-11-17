@@ -33,7 +33,7 @@
     "@types/parsimmon": "^1.10.6",
     "@zerollup/ts-transform-paths": "^1.7.18",
     "compare-versions": "^4.1.1",
-    "jest": "^29.7.0",
+    "jest": "^30.0.0",
     "jest-environment-jsdom": "^29.7.0",
     "obsidian": "^1.4.0",
     "prettier": "2.3.2",
